@@ -162,8 +162,8 @@ Beta was calculated as:
 
 $$
 \beta_i =
-\frac{\operatorname{Cov}(R_i,R_m)}
-{\operatorname{Var}(R_m)}
+\frac{\mathrm{Cov}(R_i,R_m)}
+{\mathrm{Var}(R_m)}
 $$
 
 Beta indicates how sensitive an asset's returns are to movements in the selected market benchmark.
