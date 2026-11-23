@@ -62,7 +62,7 @@ The analysis was implemented using a combination of Python-based data tools and 
 
 ### Data Source
 
-Market price data was obtained through the `yfinance` library in Python. The historical dataset spans **January 2016 to July 2026** and contains observations for eight selected financial instruments.
+Market price data was obtained through the `yfinance` library in Python. The historical dataset spans January 1, 2016 to July 22, 2026 and contains observations for eight selected financial instruments.
 
 The assets included are:
 
@@ -505,4 +505,5 @@ The analysis demonstrates that evaluating an investment requires more than compa
 The hypothetical portfolio achieved a Sharpe ratio of approximately **1.22** and experienced a maximum historical drawdown of approximately **-26.9%**.
 
 The project therefore demonstrates how quantitative financial analysis and business intelligence visualisation can be combined to evaluate portfolio characteristics in a reproducible and interpretable manner.
+
 
